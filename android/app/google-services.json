@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "879561977650",
+    "firebase_url": "https://fir-5696a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-5696a",
+    "storage_bucket": "fir-5696a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879561977650:android:f4436c44b94b3e7bd5712b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiWsugkCYZCJklV3gdNQBCTPqPZMhbhVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
